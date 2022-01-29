@@ -20,7 +20,7 @@ optional arguments:
  ```
  
  Example:
- `python unfollower SatinWuker passswooord 4`
+ `python unfollow.py SatinWuker passswooord 4`
  
  # Requirements
  This is the libraries that are required: [requirements](requirements.txt)
